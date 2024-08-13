@@ -1,0 +1,7 @@
+1. klo mw liat web e liat diformat .html, trs path e :
+jubilee- 1.0.0 / (tertera html e)
+
+2. kl mw liat gambar bs di vscode/ path :
+jubilee- 1.0.0 > jubilee- 1.0.0 > images
+
+3. indextemplate.html iku index awal, programe kita pake e index.html
